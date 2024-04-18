@@ -8,6 +8,7 @@ namespace OnlineKitobBuyurtma
         {
             MainClass mainClass = new MainClass();
             mainClass.EnterProcess();
+            // Copra kalli kalli
         }
     }
 }
